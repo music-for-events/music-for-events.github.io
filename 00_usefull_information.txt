@@ -13,6 +13,8 @@ https://github.com/zbeekman/zbeekman.github.io/tree/master/_includes
 BILDER
 ======
 
+0) unter http://homepageanleitung.de/lizenzfreie-bilder/ download
+
 1) Bearbeitung mit Gimp
 
 2) Dateigröße anpassen per Bild > Bild skalieren
