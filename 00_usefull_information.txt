@@ -10,6 +10,7 @@ SETUP
 4) https://formspree.io
 https://github.com/zbeekman/zbeekman.github.io/tree/master/_includes
 
+
 BILDER
 ======
 
@@ -29,10 +30,14 @@ BILDER
 WASSERZEICHEN
 =============
 
+1) Bild > Textsymbol auswählen > Bild anklicken > Text eintragen > Schriftgröße etc.
 
+2) Bild exportieren / speichern
+
+3) http://praxistipps.chip.de/gimp-wasserzeichen-einfuegen-so-klappts_29272
 
 
 IMPRESSUM / DISCLAIMER / DATENSCHUTZ
 ====================================
 
-erstellt mit https://www.e-recht24.de/muster-datenschutzerklaerung.html
+1) erstellt mit https://www.e-recht24.de/muster-datenschutzerklaerung.html
