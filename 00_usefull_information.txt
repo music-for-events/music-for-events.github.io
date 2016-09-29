@@ -26,6 +26,12 @@ BILDER
 5) Datei exportieren als jpg (Qualität reduzieren, per Bildvorschau kontrollieren)
 
 
+WASSERZEICHEN
+=============
+
+
+
+
 IMPRESSUM / DISCLAIMER / DATENSCHUTZ
 ====================================
 
